@@ -9,8 +9,8 @@ navigation:
     url: /
   - name: 分类
     url: /tags
-  - name: Alist
-    url: https://dqtgppco.ap-northeast-1.clawcloudrun.com/
+  - name: Openlist
+    url: https://hmkoabjz.ap-northeast-1.clawcloudrun.com/
   - name: 关于
     url: /about
 
